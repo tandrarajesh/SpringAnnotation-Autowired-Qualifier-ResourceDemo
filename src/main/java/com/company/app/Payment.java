@@ -1,4 +1,4 @@
-package com.mphasis.app;
+package com.company.app;
 
 public interface Payment {
 	

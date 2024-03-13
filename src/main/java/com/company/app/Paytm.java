@@ -1,4 +1,4 @@
-package com.mphasis.app;
+package com.company.app;
 
 import org.springframework.stereotype.Service;
 

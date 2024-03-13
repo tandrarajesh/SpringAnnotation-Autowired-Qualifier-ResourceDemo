@@ -1,4 +1,4 @@
-package com.mphasis.api;
+package com.company.api;
 
 import javax.annotation.Resource;
 
@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Component;
 
-import com.mphasis.app.Payment;
+import com.company.app.Payment;
 
 @Component
 @PropertySource(value =  { "classpath:application.properties" })
