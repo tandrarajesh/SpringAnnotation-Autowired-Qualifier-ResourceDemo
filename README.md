@@ -1,0 +1,2 @@
+# SpringAnnotation-Autowired-Qualifier-ResourceDemo
+SpringAnnotation@Autowired@Qualifier@ResourceDemo
